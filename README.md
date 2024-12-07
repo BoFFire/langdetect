@@ -74,7 +74,11 @@ To generate language profile from a plain text, use the genprofile-text command.
 
 usage: ``java -jar langdetect.jar --genprofile-text -l [language code] [text file path]``
 
+for example : ``java -cp "lib/langdetect.jar:lib/jsonic-1.3.0.jar" com.cybozu.labs.langdetect.Command --genprofile-text -l kab kab-corpus/kab.txt``
+
 For more details see [language-detection Wiki](https://code.google.com/archive/p/language-detection/wikis/Tools.wiki).
+
+Used jsonic from here (http://www.java2s.com/Code/Jar/j/Downloadjsonic130jar.htm)
 
 
 Original project
