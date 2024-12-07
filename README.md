@@ -1,4 +1,4 @@
-langdetect
+langdetect with kabyle and occitan profiles
 ==========
 
 [![Build Status](https://travis-ci.org/Mimino666/langdetect.svg?branch=master)](https://travis-ci.org/Mimino666/langdetect)
@@ -17,10 +17,10 @@ Supported Python versions 2.7, 3.4+.
 Languages
 =========
 
-``langdetect`` supports 55 languages out of the box ([ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)):
+``langdetect`` supports these languages out of the box :
 
     af, ar, bg, bn, ca, cs, cy, da, de, el, en, es, et, fa, fi, fr, gu, he,
-    hi, hr, hu, id, it, ja, kn, ko, lt, lv, mk, ml, mr, ne, nl, no, pa, pl,
+    hi, hr, hu, id, it, ja, kab, kn, ko, lt, lv, mk, ml, mr, ne, nl, no, oc, pa, pl,
     pt, ro, ru, sk, sl, so, sq, sv, sw, ta, te, th, tl, tr, uk, ur, vi, zh-cn, zh-tw
 
 
