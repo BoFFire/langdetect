@@ -13,6 +13,7 @@ Installation
 
 Supported Python versions 2.7, 3.4+.
 
+Then copy the files ``kab`` and ``oc`` from [this repo location](https://github.com/BoFFire/langdetect/tree/master/langdetect/profiles) to your installation path, for example here : ``/home/user/.local/lib/python3.13/site-packages/langdetect/profiles/``
 
 Languages
 =========
